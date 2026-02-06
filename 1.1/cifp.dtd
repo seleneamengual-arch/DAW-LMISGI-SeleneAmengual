@@ -1,4 +1,4 @@
-<!ELEMENT cifp (alumne*, professor*)>
+<!ELEMENT cifp ((alumne | professor)*)>
 
 <!ELEMENT alumne (nom, llinatges, data_naixement?, correu?, telefon?, adreça?, data_matricula, curs)>
 <!ATTLIST alumne id ID #REQUIRED>
