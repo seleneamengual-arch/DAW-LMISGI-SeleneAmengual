@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cifp SYSTEM "cifp.dtd">
+<cifp>
+    <alumne id="a1">
+        <nom>Marc</nom>
+        <llinatges>Garcia Torres</llinatges>
+        <data_naixement>1997-03-18</data_naixement>
+        <correu>marc.garcia@cifp.com</correu>
+        <telefon>612345678</telefon>
+        <adreça>Carrer, 45, 07001 Mallorca</adreça>
+
+        <data_matricula>2024-09-15</data_matricula>
+        <curs valor="DAW"/>
+    </alumne>
+    <alumne id="a2">
+        <nom>Maria</nom>
+        <llinatges>Llull Serra</llinatges>
+        <data_matricula>1999-09-18</data_matricula>
+        <curs valor="DAM"/>
+    </alumne>
+
+    <professor id="p1">
+        <nom>Laura</nom>
+        <llinatges>Pérez López</llinatges>
+        <data_naixement>1975-07-22</data_naixement>
+        <correu>laura.perez@cifp.com</correu>
+        <telefon>698765432</telefon>
+        <adreça>Carrer, 12, 07001 Mallorca</adreça>
+
+        <data_incorporacio>2018-01-10</data_incorporacio>
+        <departament valor="Informatica"/>
+        <assignatura id_assignatura="as1">
+            <nom_assignatura cicle="DAW">Programació</nom_assignatura>
+            <data_inici>2024-09-01</data_inici>
+            <data_final>2025-06-30</data_final>
+        </assignatura>
+        <assignatura id_assignatura="as2">
+            <nom_assignatura cicle="DAM">Bases de dades</nom_assignatura>
+            <data_inici>2025-09-01</data_inici>
+        </assignatura>
+    </professor>
+</cifp>

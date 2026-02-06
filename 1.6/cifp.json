@@ -1,0 +1,53 @@
+{
+  "$schema": "./cifp.schema.json",
+  "cifp": {
+    "alumne": [
+      {
+        "id": 1,
+        "nom": "Marc",
+        "llinatges": "Garcia Torres",
+        "data_naixement": "1997-03-18",
+        "correu": "marc.garcia@cifp.com",
+        "telefon": "612345678",
+        "adreça": "Carrer, 45, 07001 Mallorca",
+        "data_matricula": "2024-09-15",
+        "curs": "DAW"
+      },
+      {
+        "id": 2,
+        "nom": "Maria",
+        "llinatges": "Llull Serra",
+        "data_matricula": "1999-09-18",
+        "curs": "DAM"
+      }
+    ],
+    "professor": [
+      {
+        "id": 1,
+        "nom": "Laura",
+        "llinatges": "Pérez López",
+        "data_naixement": "1975-07-22",
+        "correu": "laura.perez@cifp.com",
+        "telefon": "698765432",
+        "adreça": "Carrer, 12, 07001 Mallorca",
+        "data_incorporacio": "2018-01-10",
+        "departament": "Informàtica",
+        "assignatura": [
+          {
+            "id_assignatura": 1,
+            "nom_assignatura": "Programació",
+            "cicle": "DAW",
+            "data_inici": "2024-09-01",
+            "data_final": "2025-06-30"
+          },
+          {
+            "id_assignatura": 2,
+            "nom_assignatura": "Bases de dades",
+            "cicle": "DAM",
+            "data_inici": "2025-09-01"
+          }
+        ]
+      }
+    ]
+  }
+}

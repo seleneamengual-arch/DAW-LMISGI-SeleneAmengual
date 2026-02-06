@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.motornews.com</id>
+    <title>Notícies sobre cotxes</title>
+    <subtitle>Últimes notícies sobre cotxes</subtitle>
+    <link href="https://www.motornews.com"/>
+    <author>
+        <name>Editorial automovilístic</name>
+    </author>
+    <updated>2024-11-15T12:00:00Z</updated>
+    <entry>
+        <title>Ferrari presenta el seu nou model híbrid, el SF-2024</title>
+        <summary> Notícia destacada sobre un nou model híbrid de Ferrari de 10:00 14-11-2024 CEST (UTC+1).</summary>
+        <link href="https://www.motornews.com/ferrari-sf-2024-hibrid"/>
+        <id>https://www.motornews.com/ferrari-sf-2024-hibrid</id>
+        <updated>2024-11-15T12:00:00Z</updated>
+        <published>2024-11-14T10:00:00Z</published>
+        <author>
+            <name>Editorial automovilístic</name>
+        </author>
+        <content type="text">Ferrari ha anunciat el llançament del seu nou model híbrid, el SF-2024, que combina rendiment i sostenibilitat. Amb un motor V8 de 800 CV i un sistema elèctric de suport, és el cotxe més avançat de la marca fins ara. La seva autonomia en mode elèctric arriba als 50 km.</content>
+    </entry>
+    <entry>
+        <title>Volkswagen anuncia una inversió de 10.000 milions en vehicles elèctrics</title>
+        <summary> Notícia destacada sobre la inversió de Volkswagen en vehicles elèctrics de 15:30 12-11-2024 CEST (UTC+1).</summary>
+        <link href="https://www.motornews.com/volkswagen-investment-electric-cars"/>
+        <id>https://www.motornews.com/volkswagen-investment-electric-cars</id>
+        <updated>2024-11-15T12:00:00Z</updated>
+        <published>2024-11-12T15:30:00Z</published>
+        <author>
+            <name>Editorial automovilístic</name>
+        </author>
+        <content type="text">La companyia Volkswagen ha anunciat una inversió massiva en el desenvolupament de vehicles elèctrics. El pla preveu la creació de tres nous models elèctrics per al 2025, amb una autonomia de fins a 700 km i tecnologies de conducció autònoma.</content>
+    </entry>
+</feed>
